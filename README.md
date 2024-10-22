@@ -1,11 +1,14 @@
+<div align="center">
+  <img src="20241017_224520.jpg">
+</div>
+
 # NotPixel
-Introducing the [NotPixel Bot](https://t.me/notpixel): 
+Introducing the [NotPixel Bot](https://t.me/notpixel/app?startapp=f5760224255_s4): 
 
 a fully automatic tool for claiming and painting. With built-in anti-detection features, it works efficiently and discreetly to get the best results. Simplify your tasks with the NotPixel Bot!
-![d](https://github.com/aDarkDev/NotPixel/blob/3478a347a2783afbe5faff49672c4bead56d9907/shot.png)
 
 ## Features:
-* 🌵 Automatic Boosting ( New Update )
+* 🌵 Automatic Boosting 
 * 👾 Multi-Session
 * 🔥 Multi-Thread 
 * ⭕️ Error handling 
@@ -16,13 +19,11 @@ a fully automatic tool for claiming and painting. With built-in anti-detection f
 * 🤖 Anti detect
 * 🐍 easy to use as module
 
-Upcoming features: 🤔
-
 ## Quick Installation
 
 To easy install libraries and run bot just open run.bat on Windows and edit .env file
 
-## Installation
+## Usage
 
 1. Install the required libraries:
    ```bash
@@ -35,4 +36,22 @@ Then just run it!
 $ python3 main.py
 ```
 
-### Don't forget to star⭐️ the project and report any bugs🪲 you encounter. Good luck!
+## Manual installation 
+
+Clone repository and change directory 
+
+```
+git clone https://github.com/zyz-airdrops/notpixel-claimer.git
+```
+```
+cd notpixel-claimer
+```
+Install the required libraries:
+
+```
+ python -m pip install -r requirements.txt
+```
+Run the script:
+```
+python main.py
+```
